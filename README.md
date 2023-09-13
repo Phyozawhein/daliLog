@@ -15,6 +15,7 @@ The objective of this project is to brush up  my knowledge on my front-end devel
 ### Backend
 - Node.JS
 - Google Spreadsheet
+- Google Cloud Platform
 
 
 
