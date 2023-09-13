@@ -1,0 +1,35 @@
+
+.TDBBtn{
+ transition: all ease-in-out 0.2s; 
+ border: solid transparent 1px;
+ width: 50px;
+ margin: 5px;
+ border-radius: 30px;
+}
+
+.TDBBtn:hover{
+ border: solid black 1px;
+ box-shadow: 2px 2px black;
+ 
+}
+
+.Tdashboard {
+    padding:0;
+    width:100%;
+    margin:auto;
+}
+ 
+.Tdashboard th {
+    border-bottom: 1px solid black;
+}
+
+.Tdashboard td {
+    text-align: center;
+    width:10rem;
+    flex-wrap:wrap;
+    margin:5px;
+}
+
+
+
+

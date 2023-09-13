@@ -1,0 +1,206 @@
+[
+    {   
+        "id":1,
+        "apt":"TH1",
+        "tenants": ["Fred","Lisa","Fred .Jr", "Lisa .Jr"],
+        "email":["fred@gmail.com"],
+        "phone":["223-123-3334"]
+    },
+    {   
+        "id":2,
+        "apt":"TH2",
+        "tenants": ["Kyaw"],
+        "email":["fred@gmail.com"],
+        "phone":["223-123-3334"]
+    },
+    {
+        "id":3,
+        "apt":"1D",
+        "tenants": ["Tim","Sophie"],
+        "email":["fred@gmail.com"],
+        "phone":["223-123-3334"]
+    },
+    {
+        "id":4,
+        "apt":"3A",
+        "tenants": ["Tom"],
+        "email":["fred@gmail.com"],
+        "phone":["223-123-3334"]
+    },
+    {
+        "id":5,
+        "apt":"3B",
+        "tenants": ["Kim"],
+        "email":["fred@gmail.com"],
+        "phone":["223-123-3334"]
+    },
+    {
+        "id":6,
+        "apt":"3C",
+        "tenants": ["Zack","Mary"],
+        "email":["fred@gmail.com"],
+        "phone":["223-123-3334"]
+    },
+    {   
+        "id":7,
+        "apt":"3D",
+        "tenants": ["Zack","Mary"],
+        "email":["fred@gmail.com"],
+        "phone":["223-123-3334"]
+    },
+    {   
+        "id":8,
+        "apt":"5A",
+        "tenants": ["Zack","Mary"],
+        "email":["fred@gmail.com"],
+        "phone":["223-123-3334"]
+    },
+    {
+        "id":9,
+        "apt":"5B",
+        "tenants": ["Zack","Mary"],
+        "email":["fred@gmail.com"],
+        "phone":["223-123-3334"]
+    },
+    {
+        "id":10,
+        "apt":"5C",        
+        "tenants": ["Zack","Mary"],
+        "email":["fred@gmail.com"],
+        "phone":["223-123-3334"]
+    },
+    {
+        "id":11,
+        "apt":"5D",        
+        "tenants": ["Zack","Mary"],
+        "email":["fred@gmail.com"],
+        "phone":["223-123-3334"]
+    },
+    {
+        "id":12,
+        "apt":"6A",        
+        "tenants": ["Zack","Mary"],
+        "email":["fred@gmail.com"],
+        "phone":["223-123-3334"]
+    },
+    {   
+        "id":13,
+        "apt":"6B",        
+        "tenants": ["Zack","Mary"],
+        "email":["fred@gmail.com"],
+        "phone":["223-123-3334"]
+    },
+    {   
+        "id":14,
+        "apt":"6C",        
+        "tenants": ["Zack","Mary"],
+        "email":["fred@gmail.com"],
+        "phone":["223-123-3334"]
+    },
+    {
+        "id":15,
+        "apt":"6D",        
+        "tenants": ["Zack","Mary"],
+        "email":["fred@gmail.com"],
+        "phone":["223-123-3334"]
+    },
+    {
+        "id":16,
+        "apt":"7A",        
+        "tenants": ["Zack","Mary"],
+        "email":["fred@gmail.com"],
+        "phone":["223-123-3334"]
+    },
+    {
+        "id":17,
+        "apt":"7B",
+        "tenants": ["Zack","Mary"],
+        "email":["fred@gmail.com"],
+        "phone":["223-123-3334"]
+    },
+    {
+        "id":18,
+        "apt":"7D",
+        "tenants": ["Zack","Mary"],
+        "email":["fred@gmail.com"],
+        "phone":["223-123-3334"]
+    },
+    {   
+        "id":19,
+        "apt":"8A",
+                "tenants": ["Zack","Mary"],
+        "email":["fred@gmail.com"],
+        "phone":["223-123-3334"]
+    },
+    {   
+        "id":20,
+        "apt":"8D",
+                "tenants": ["Zack","Mary"],
+        "email":["fred@gmail.com"],
+        "phone":["223-123-3334"]
+    },
+    {
+        "id":21,
+        "apt":"9",
+        "tenants": ["Zack","Mary"],
+        "email":["fred@gmail.com"],
+        "phone":["223-123-3334"]
+    },
+    {
+        "id":22,
+        "apt":"10",
+        "tenants": ["Zack","Mary"],
+        "email":["fred@gmail.com"],
+        "phone":["223-123-3334"]
+    },
+    {
+        "id":5,
+        "apt":"11",
+        "tenants": ["Zack","Mary"],
+        "email":["fred@gmail.com"],
+        "phone":["223-123-3334"]
+    },
+    {
+        "id":23,
+        "apt":"12",
+        "tenants": ["Zack","Mary"],
+        "email":["fred@gmail.com"],
+        "phone":["223-123-3334"]
+    },
+    {
+        "id":24,
+        "apt":"13",
+    "tenants": ["Zack","Mary"],
+        "email":["fred@gmail.com"],
+        "phone":["223-123-3334"]
+    },
+    {
+        "id":25,
+        "apt":"14",
+        "tenants": ["Zack","Mary"],
+        "email":["fred@gmail.com"],
+        "phone":["223-123-3334"]
+    },
+    {
+        "id":26,
+        "apt":"15",
+        "tenants": ["Zack","Mary"],
+        "email":["fred@gmail.com"],
+        "phone":["223-123-3334"]
+    },
+    {
+        "id":27,
+        "apt":"16",
+        "tenants": ["Zack","Mary"],
+        "email":["fred@gmail.com"],
+        "phone":["223-123-3334"]
+    },
+    {
+        "id":28,
+        "apt":"PH",
+        "tenants": [],
+        "email":[],
+        "phone":[]
+    }
+
+]

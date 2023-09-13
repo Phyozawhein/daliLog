@@ -1,23 +1,3 @@
-# daliLog
-
-# Project Details
-
-## Objective 
-
-The objective of this project is to brush up  my knowledge on my front-end developement tools and to digitalize the processing of keeping an inventory of packages for front desk receptionist and keeping track of tenants info
-
-## Technologies
-
-### Frontend 
-- React.JS
-- Tailwind CSS
-
-### Backend
-- Node.JS
-- Google Spreadsheet
-
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
