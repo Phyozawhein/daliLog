@@ -74,7 +74,7 @@ async function listResidents(auth) {
   const sheets = google.sheets({version: 'v4', auth});
   const res = await sheets.spreadsheets.values.get({
     spreadsheetId: '1Rjbq_DBlU62ZuF10kMQj5rnFyAltlMxfrMLmSiY2mCE',
-    range: 'residentInfo!B2:H',
+    range: 'residentInfo!B1:H',
   });
   
   // if (!rows || rows.length === 0) {

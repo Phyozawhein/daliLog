@@ -2,3 +2,9 @@
 
 credentials.json
 token.json
+
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
